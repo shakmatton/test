@@ -5,4 +5,4 @@ This is the 1st test inside Github.
 
 
 A new project is born.
-May the journey begins!
+May the journey begin!

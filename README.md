@@ -6,3 +6,7 @@ This is the 1st test inside Github.
 
 A new project is born.
 May the journey begin!
+
+******************************
+
+And may the Force be with you!
